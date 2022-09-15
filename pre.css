@@ -1,0 +1,11 @@
+.main{
+    text-align: center;
+    font-size: smaller;
+    color: blue;
+    margin: 100px;
+    display: block;
+    background-color: brown;
+    border: 10px dotted;
+    border-color: black;
+    text-decoration:italic;
+}
