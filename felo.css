@@ -1,0 +1,34 @@
+.main{
+text-align: center;
+font-family:'Happy Monkey', cursive;
+background-color:#a2d2ff;
+color: white;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+#pit{
+    border-radius: 50px;
+    width: 150px;
+    border:6px solid #EFB0C9; 
+}
+
+h1{
+    text-shadow: 0px 0px 1px black;
+}
+.dday{
+    border-radius: 10px;
+    padding: 5px 10px ;
+}
+
+h12{
+    text-shadow: 0px 0px 1px black;
+}
+
+h3{
+    text-shadow: 0px 0px 1px black;
+}
+h2,h3{
+    background: #EFB0C9 ;
+}

@@ -7,5 +7,9 @@
     background-color: brown;
     border: 10px dotted;
     border-color: black;
-    text-decoration:italic;
+}
+.tp{
+    border: 2px solid #A3BC71;
+    padding: 5px 10px;
+    background-color: blueviolet;
 }
