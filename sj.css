@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0;
+    font-family: sans-serif;
+}
+.tp{
+    width: 100%;
+    height: 100vh;
+background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://burst.shopifycdn.com/photos/city-lights-through-rain-window.jpg?width=1200&format=pjpg&exif=1&iptc=1);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+.au{
+    
+}
+.au ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+    text-align: righ
+}
+.h{
+    text-align: center;
+    margin-top:200px;
+}
+.p{
+    text-align: center;
+    margin-top: 20px;
+}
+.b{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid#009;
+}
