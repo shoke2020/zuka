@@ -11,15 +11,21 @@ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https:/
     background-position: center;
     text-align: center;
     color: white;
+
 }
 .au{
-    
+    width: 85%;
+    margin: auto;
+    padding:35px 0 ;
+    text-align:;
 }
+
 .au ul li{
     list-style: none;
     display: inline-block;
     margin: 20px;
-    text-align: righ
+text-align: right;
+    margin-right: 20px;
 }
 .h{
     text-align: center;
@@ -36,4 +42,9 @@ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https:/
     border-radius: 25px;
     font-weight: bold;
     border: 2px solid#009;
+}
+.j{
+    text-align: right;
+    color: #009;
+    
 }

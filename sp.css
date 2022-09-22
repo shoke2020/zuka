@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(https://c1.wallpaperflare.com/preview/537/56/906/sea-coffee-morning-breakfast.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.logo{
+    width: 300px;
+    height: 400px;
+    background:black;
+   color: white;
+   left: 50%;
+   top: 50%;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   box-sizing: border-box;
+
+}
+.aveter{
+width: 100px;
+height: 100px;
+border-radius: 50px;
+top: -50px;
+position: absolute;
+}
