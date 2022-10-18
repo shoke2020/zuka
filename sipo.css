@@ -1,0 +1,71 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+body{
+    background-color: black;
+}
+
+.menu{
+    background-color:white;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    width: 400px;
+    height: auto;
+    margin: auto;
+color: black;
+margin-left: 35%;
+margin-top: 150px;
+border:40px solid rgb(19, 9, 9);
+display: block;
+align-items: center;
+justify-content: center;
+
+}
+.menu h1{
+position: relative;
+font-size: medium;
+display: flex;
+}
+.loginbox{
+    width:320px ;
+    height: 350px;
+    background: white;
+    color: #fff;
+    top:50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50);
+    box-sizing: border-box;
+
+}
+.pp{
+    margin-left: 80%;
+}
+  .ig{
+    width: 25px;
+    margin-left: 30px;
+  } 
+  .t{
+    width: 25px;
+  }
+  .bb{
+    background: black;
+    color: #fff;
+    padding: 5px 5px;
+    font-size: xx-small;
+    border-radius: 2px;
+    margin-left: 80%;
+    margin-bottom: 20px;
+  }
+  .space{
+display:line block;
+  }
+  .h1{
+margin-left:20px ;
+padding: 10px 10px;
+font-size: normal;
+  }

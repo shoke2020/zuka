@@ -1,0 +1,19 @@
+.{
+    margin: 0;
+padding: 0;
+}
+body{
+    background: blue;
+    background-size: cover;
+    background-position: center;
+}
+.h1{
+font-size:larger;
+padding-left: 50%;
+padding-top: 40px;
+}
+.p1{
+    font-size: medium;
+    padding-left: 50%;
+}
+
